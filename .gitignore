@@ -1,0 +1,7 @@
+# Docker / runtime
+data/
+backups/
+**/*.log
+
+# Local env
+.env
